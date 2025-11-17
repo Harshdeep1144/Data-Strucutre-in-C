@@ -20,23 +20,6 @@ It is designed to help beginners understand core concepts like arrays, stacks, q
   <li>📊 <strong>Other Basics:</strong> Searching and basic sorting algorithms.</li>
 </ul>
 
-<h2>🎯 Learning Goals</h2>
-<ul>
-  <li>💡 Understand how data structures work under the hood.</li>
-  <li>✍️ Strengthen problem-solving skills using C.</li>
-  <li>⚡ Improve coding efficiency by implementing core operations manually.</li>
-</ul>
-
-<h2>📂 Repository Structure</h2>
-<ul>
-  <li><strong>arrays/</strong> – Programs related to array operations.</li>
-  <li><strong>stacks/</strong> – Implementation of stack using arrays and linked lists.</li>
-  <li><strong>queues/</strong> – Programs for linear and circular queues.</li>
-  <li><strong>linked_lists/</strong> – Singly, doubly, and circular linked list codes.</li>
-  <li><strong>trees/</strong> – Binary tree and traversal programs.</li>
-  <li><strong>misc/</strong> – Searching, basic sorting, and utility programs.</li>
-</ul>
-
 <h2>🚀 How to Run</h2>
 <p>
 1️⃣ Clone the repository  
